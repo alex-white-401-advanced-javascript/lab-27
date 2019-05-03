@@ -5,12 +5,14 @@
 
 ### Author: Alexander White
 
+[![Build Status](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-27.svg?branch=master)](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-27)
+
 ### Links and Resources
 * [Repo](https://github.com/alex-white-401-advanced-javascript/lab-27)
-* [travis](http://xyz.com)
 * [AWS Bucket](http://alex-white-401js-lab-27.s3-website-us-west-2.amazonaws.com)
 * [AWS-yml](http://alexwhite401jslab27-alexwhite401d29lab27bucket-otjwmd9wfrt9.s3-website-us-west-2.amazonaws.com)
 * [Netlify](https://jovial-kalam-415c85.netlify.com/)
+
 
 #### Documentation
 * [React Styleguidist]()
