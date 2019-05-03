@@ -1,0 +1,29 @@
+body {
+  background: #505168;
+}
+
+#root {
+  header {
+    text-align: center;
+    h1 {
+      font-size: 2em;
+    }
+  }
+  section {
+    margin: 2em;
+    text-align: center;
+    font-size: 2em;
+    a {
+      margin: 1em;
+      text-decoration: none;
+      color: #AEC5EB;
+    }
+  }
+  footer {
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    background: #9B9B93;
+  }
+}
